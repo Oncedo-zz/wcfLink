@@ -1,0 +1,10 @@
+.*
+!.gitignore
+
+bin/
+dist/
+data/
+tmp/
+*.db
+*.db-shm
+*.db-wal
